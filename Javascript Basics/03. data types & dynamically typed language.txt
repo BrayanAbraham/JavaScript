@@ -1,0 +1,20 @@
+1. Primitive - direct location access, stack memory
+    a. string
+    b. number
+    c. boolean
+    d. null
+    e. undefined
+    f. Symbols
+
+2. Referenced - Access by reference, heap memory
+    a. Array
+    b. Object literals
+    c. Functions
+    d. Date
+    e. Anything Else
+
+JS is Dynamically TYped Language
+    -Type associated with value not variable
+    -Same variable can hold multiple Type
+    -No need to specify Type
+    - TS and Flow (Supersets of JS) can allow static typing

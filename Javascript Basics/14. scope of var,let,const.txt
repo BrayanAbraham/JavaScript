@@ -1,0 +1,2 @@
+var = function level, stays same in all of the function
+let,const = block level, ends when block ends
